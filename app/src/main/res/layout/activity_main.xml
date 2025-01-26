@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/button_mainActivity1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Week1"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/button_mainActivity2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Week2"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/button_mainActivity3a1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Week3a"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/button_mainActivity3b1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Week3b"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/button_mainActivity4a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Week4"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/button_mainActivity5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Week5"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/button_assignment1a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Assignment1"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
