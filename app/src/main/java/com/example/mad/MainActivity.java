@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.button_mainActivity4a).setOnClickListener(v -> openActivity(MainActivity4a.class));
         findViewById(R.id.button_mainActivity5).setOnClickListener(v -> openActivity(MainActivity5.class));
         findViewById(R.id.button_assignment1a).setOnClickListener(v -> openActivity(assignment1a.class));
+        findViewById(R.id.button_Mrulogo).setOnClickListener(v -> openActivity(Mrulogo.class));
+        findViewById(R.id.button_mainActivity7).setOnClickListener(v -> openActivity(MainActivity7.class));
     }
 
     private void openActivity(Class<?> activityClass) {

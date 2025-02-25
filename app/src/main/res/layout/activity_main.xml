@@ -54,4 +54,17 @@
         android:text="Assignment1"
         android:layout_marginTop="16dp" />
 
+    <Button
+        android:id="@+id/button_Mrulogo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MRU"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/button_mainActivity7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Week7"
+        android:layout_marginTop="16dp" />
 </LinearLayout>
